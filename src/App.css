@@ -1,0 +1,79 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+	
+}
+.contact-card{
+  display: flex;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 30px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  height: 100vh;
+
+}
+.form{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.form:hover{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.input-feild{
+	width: 600px;
+	height: 40px;
+	border-radius: 5px;
+	padding: 5px;
+
+}
+.input-feild-mes{
+width: 600px;
+height: 80px;
+border-radius: 5px;
+padding: 5px;	
+}
+.card-info{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+}
+.card-info:hover{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.contact{
+	color:orange;
+	padding:  10px;
+}
+.field{
+	padding-bottom: 5px;
+}
+.textarea{
+	border-radius: 5px;
+}
+
+@media screen and (max-width: 480px) {
+  .input-feild{
+	width: 350px;
+	height: 40px;
+	border-radius: 5px;
+	padding: 5px;
+}
+.input-feild-mes{
+width: 350px;
+height: 80px;
+border-radius: 5px;
+padding: 5px;	
+}
+.contact-card{
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 15px;
+
+}
+}
