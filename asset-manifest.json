@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/copa/static/css/main.ec64bb89.chunk.css",
+    "main.js": "/copa/static/js/main.0b38f1a2.chunk.js",
+    "main.js.map": "/copa/static/js/main.0b38f1a2.chunk.js.map",
+    "runtime-main.js": "/copa/static/js/runtime-main.d121fc8b.js",
+    "runtime-main.js.map": "/copa/static/js/runtime-main.d121fc8b.js.map",
+    "static/js/2.500d0274.chunk.js": "/copa/static/js/2.500d0274.chunk.js",
+    "static/js/2.500d0274.chunk.js.map": "/copa/static/js/2.500d0274.chunk.js.map",
+    "index.html": "/copa/index.html",
+    "precache-manifest.f831cf4330eefd2820e41850d5c5fbcd.js": "/copa/precache-manifest.f831cf4330eefd2820e41850d5c5fbcd.js",
+    "service-worker.js": "/copa/service-worker.js",
+    "static/css/main.ec64bb89.chunk.css.map": "/copa/static/css/main.ec64bb89.chunk.css.map",
+    "static/js/2.500d0274.chunk.js.LICENSE.txt": "/copa/static/js/2.500d0274.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d121fc8b.js",
+    "static/js/2.500d0274.chunk.js",
+    "static/css/main.ec64bb89.chunk.css",
+    "static/js/main.0b38f1a2.chunk.js"
+  ]
+}
